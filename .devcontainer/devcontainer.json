@@ -18,14 +18,13 @@
 			]
 		}
 	},
-
-    "features": {
-        "desktop-lite": {
-            "password": "vscode",
-            "webPort": "6080",
-            "vncPort": "5901"
-        }
-    }
+	"features": {
+		"desktop-lite": {
+			"password": "vscode",
+			"webPort": "6080",
+			"vncPort": "5901"
+		}
+	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [3000],
